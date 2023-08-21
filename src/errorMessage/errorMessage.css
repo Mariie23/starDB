@@ -1,0 +1,10 @@
+.error {
+    display: flex;
+    flex-direction: column;
+    row-gap: 1rem;
+}
+.error-header {
+    font-size: 2rem;
+    color: rgb(198, 198, 22);
+    font-weight: 700;
+}
